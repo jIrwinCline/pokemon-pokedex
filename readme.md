@@ -2,7 +2,7 @@
 
 #### _Using Pokeapi.co_
 
-#### By _**Hugh Donkin, Josh Irwin, Alex Siegberg, Tae Lee, Lake Bramlett,**_
+#### By _**Hugh Donkin, Jacob Irwin, Alex Siegberg, Tae Lee, Lake Bramlett,**_
 
 ## Description
 
